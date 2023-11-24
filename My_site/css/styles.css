@@ -1,0 +1,133 @@
+body{
+
+text-align: center;
+margin: 0px;
+color: #40514E;
+
+}
+
+.top-container{   
+    background-color:#EAF6F6;
+    padding-top: 100px;
+    position: relative;
+   margin-bottom: 80px;
+}
+.cloudfirst{
+   position: absolute;
+   right: 450px;
+   top:50px;
+}
+ p{
+    color:#40514E
+} 
+
+.profile{
+    width: 24rem;
+    height:24rem ;
+}
+.cloudsecond{
+    position: absolute;
+    left: 450px;
+    bottom: 300px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.23rem;
+    color: #66BFBF;
+
+}
+h2{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 3.12rem;
+    color: #66BFBF;
+font-weight: normal;
+}
+h3{
+    font-family: 'Trebuchet MS', sans-serif;
+    
+    color: #11999E;
+
+
+}
+hr{
+    display: block;
+    border-top: dotted;
+    border-width: 5px 0px 0px 0px;
+    border-color:#66BFBF;
+    width: 5%;
+    height: 0px;
+    
+
+}
+a{
+    color: #11999E;
+    margin: 10px 20px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+span{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 3.12rem;
+    font-weight: normal;
+}
+
+.chillies{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.designing{
+    width: 50%;
+    margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.Design1{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+.Design2{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+    }
+    .btn {
+        background:  #11cdd4;
+        background-image: -webkit-linear-gradient(top,  #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top,  #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top,  #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top,  #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #30e3cb;
+        background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+        text-decoration: none;
+      }
+      .tail{
+        padding: 30px;
+        margin-top: 80px;
+        background-color: #66BFBF;
+        height: 100px;
+       
+    
+    }
+.copy{
+color: #EAF6F6;
+}
